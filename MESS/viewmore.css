@@ -1,0 +1,11 @@
+.GFG {
+    background-color: #FEF9A7;
+    border: 2px solid black;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 30px;
+    cursor: pointer;
+}
